@@ -1,0 +1,28 @@
+close all;
+clear all;
+fileID=fopen('Default_Global.txt')
+formatSpec = '%f'
+
+pr=fscanf(fileID,formatSpec);
+fileID=fopen('Default_Local.txt')
+prl=fscanf(fileID,formatSpec);
+figure(1);
+
+hold on;
+X = 1:50;
+Y = pr(101:150,1);
+Z = prl(101:150,1);
+ylim([0 200])
+G=plot(X,Y);
+L=plot(X,Z);
+G.LineWidth=1
+L.LineWidth=1
+ylabel('Funkcja celu',,'FontSize',1213);
+xlabel('iteracja');
+legend('Rozwi¹zanie globalne','Rozwi¹zanie lokalne')
+grid on ;
+hold on
+
+
+
+

@@ -1,0 +1,36 @@
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\bin\Debug\MMWD_CS.exe.config
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\bin\Debug\MMWD_CS.exe
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\bin\Debug\MMWD_CS.pdb
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.csprojResolveAssemblyReference.cache
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Form1.resources
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Properties.Resources.resources
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.csproj.GenerateResource.Cache
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.csproj.CoreCompileInputs.cache
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.exe
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.pdb
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Form2.resources
+C:\Users\Ziemek\Documents\Visual Studio 2017\Projects\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Form3.resources
+E:\Air\MMWD\MMWD_CS\MMWD_CS\bin\Debug\MMWD_CS.exe.config
+E:\Air\MMWD\MMWD_CS\MMWD_CS\bin\Debug\MMWD_CS.exe
+E:\Air\MMWD\MMWD_CS\MMWD_CS\bin\Debug\MMWD_CS.pdb
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.csprojAssemblyReference.cache
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Form1.resources
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Form2.resources
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Form3.resources
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.Properties.Resources.resources
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.csproj.GenerateResource.cache
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.csproj.CoreCompileInputs.cache
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.exe
+E:\Air\MMWD\MMWD_CS\MMWD_CS\obj\Debug\MMWD_CS.pdb
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.csprojAssemblyReference.cache
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.Form1.resources
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.Form2.resources
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.Form3.resources
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.Properties.Resources.resources
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.csproj.GenerateResource.cache
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.csproj.CoreCompileInputs.cache
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.exe
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\obj\Debug\MMWD_CS.pdb
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\bin\Debug\MMWD_CS.exe.config
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\bin\Debug\MMWD_CS.exe
+E:\Air\MMWD\MMWD_CS_Najnowsza_Wersja\MMWD_CS\bin\Debug\MMWD_CS.pdb
